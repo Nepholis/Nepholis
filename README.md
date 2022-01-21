@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nepholis
-- 👀 I’m interested in having fun coding.
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested coding fun projects.
+- 🌱 I’m currently learning JavaScript (DiscordJS, NodeJS)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
