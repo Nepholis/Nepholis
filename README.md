@@ -1,7 +1,7 @@
 - Hi, I’m @Nepholis 👋
 - 👀 I’m interested in coding fun projects.
 - 🎓 I’m studying Computer Science in Germany.
-- 🌱 I’m currently learning JavaScript (DiscordJS, NodeJS) and C# (WPF)
+- 🌱 I’m currently learning JavaScript (DiscordJS, NodeJS) and C++
 - 🤝🏻 You can support me here: https://www.buymeacoffee.com/Nepholis
 
 <!---
