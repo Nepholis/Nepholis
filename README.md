@@ -1,7 +1,8 @@
 - Hi, I’m @Nepholis 👋
 - 👀 I’m interested in coding fun projects.
 - 🎓 I’m studying Computer Science in Germany.
-- 🌱 I’m currently learning JavaScript (DiscordJS, NodeJS) and C++
+- 🌱 I’m currently learning Frontend Development with Vue, Nuxt and Typescript
+- 🌐 Checkout my Website: https://jonasdesk.com/
 - 🤝🏻 You can support me here: https://www.buymeacoffee.com/Nepholis
 
 <!---
